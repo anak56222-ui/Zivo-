@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Cursor local/system artifacts
+agent-transcripts/
+mcps/
+terminals/
+canvases/
+assets/
